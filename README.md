@@ -1,4 +1,4 @@
- # tmux-session-home
+ # tmux-session-home **(WORK IN PROGRESS !! )**
 
  QoL tmux plugin that gives each session a "home" directory and makes it easy
  for your shell to go back there with plain `cd`.
